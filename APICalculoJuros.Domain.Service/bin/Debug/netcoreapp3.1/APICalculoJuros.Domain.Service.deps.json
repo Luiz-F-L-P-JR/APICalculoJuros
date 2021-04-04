@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "APICalculoJuros.Domain.Service/1.0.0": {
+        "dependencies": {
+          "APICalculoJuros.Domain": "1.0.0"
+        },
+        "runtime": {
+          "APICalculoJuros.Domain.Service.dll": {}
+        }
+      },
+      "APICalculoJuros.Domain/1.0.0": {
+        "runtime": {
+          "APICalculoJuros.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APICalculoJuros.Domain.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APICalculoJuros.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

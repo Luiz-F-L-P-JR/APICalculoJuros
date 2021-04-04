@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APICalculoJuros", "APICalculoJuros\APICalculoJuros.csproj", "{4A6B7871-20B4-4C12-8129-0C8B88E26A31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Api", "1 - Api", "{0E858A67-C51C-4515-A265-274B8FC004DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{40F1D0F7-FF68-4760-9F20-34957F8583A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{AC862FEA-2398-4AD1-B0AE-4B7F00EF7A3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{780BD377-2336-42A9-A712-787C732DDF78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICalculoJuros.Application", "APICalculoJuros.Application\APICalculoJuros.Application.csproj", "{99140E37-69FB-4BD8-85F8-F2C5BFE8C180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICalculoJuros.Domain", "APICalculoJuros.Domain\APICalculoJuros.Domain.csproj", "{80B52241-CB99-4374-89B7-6F31260C5739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICalculoJuros.Domain.Service", "APICalculoJuros.Domain.Service\APICalculoJuros.Domain.Service.csproj", "{54B92F18-79BE-4C86-BE16-E63CA3300906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICalculoJuros.Infra.CrossCutting", "APICalculoJuros.Infra.CrossCutting\APICalculoJuros.Infra.CrossCutting.csproj", "{8ECF497E-344A-4D37-A4A4-30D6BD2CE082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICalculoJuros.Application.Test", "APICalculoJuros.Application.Test\APICalculoJuros.Application.Test.csproj", "{566DF591-152A-46A7-A035-E11E0A4D9A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICalculoJuros.Domain.Service.Test", "APICalculoJuros.Domain.Service.Test\APICalculoJuros.Domain.Service.Test.csproj", "{D857F299-30E9-4532-9C48-AD41DAD73137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6B7871-20B4-4C12-8129-0C8B88E26A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6B7871-20B4-4C12-8129-0C8B88E26A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6B7871-20B4-4C12-8129-0C8B88E26A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6B7871-20B4-4C12-8129-0C8B88E26A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99140E37-69FB-4BD8-85F8-F2C5BFE8C180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99140E37-69FB-4BD8-85F8-F2C5BFE8C180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99140E37-69FB-4BD8-85F8-F2C5BFE8C180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99140E37-69FB-4BD8-85F8-F2C5BFE8C180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B52241-CB99-4374-89B7-6F31260C5739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B52241-CB99-4374-89B7-6F31260C5739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B52241-CB99-4374-89B7-6F31260C5739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B52241-CB99-4374-89B7-6F31260C5739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B92F18-79BE-4C86-BE16-E63CA3300906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B92F18-79BE-4C86-BE16-E63CA3300906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B92F18-79BE-4C86-BE16-E63CA3300906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B92F18-79BE-4C86-BE16-E63CA3300906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ECF497E-344A-4D37-A4A4-30D6BD2CE082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECF497E-344A-4D37-A4A4-30D6BD2CE082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECF497E-344A-4D37-A4A4-30D6BD2CE082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECF497E-344A-4D37-A4A4-30D6BD2CE082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566DF591-152A-46A7-A035-E11E0A4D9A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566DF591-152A-46A7-A035-E11E0A4D9A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566DF591-152A-46A7-A035-E11E0A4D9A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566DF591-152A-46A7-A035-E11E0A4D9A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D857F299-30E9-4532-9C48-AD41DAD73137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D857F299-30E9-4532-9C48-AD41DAD73137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D857F299-30E9-4532-9C48-AD41DAD73137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D857F299-30E9-4532-9C48-AD41DAD73137}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A6B7871-20B4-4C12-8129-0C8B88E26A31} = {0E858A67-C51C-4515-A265-274B8FC004DB}
+		{99140E37-69FB-4BD8-85F8-F2C5BFE8C180} = {40F1D0F7-FF68-4760-9F20-34957F8583A0}
+		{80B52241-CB99-4374-89B7-6F31260C5739} = {AC862FEA-2398-4AD1-B0AE-4B7F00EF7A3D}
+		{54B92F18-79BE-4C86-BE16-E63CA3300906} = {AC862FEA-2398-4AD1-B0AE-4B7F00EF7A3D}
+		{8ECF497E-344A-4D37-A4A4-30D6BD2CE082} = {780BD377-2336-42A9-A712-787C732DDF78}
+		{566DF591-152A-46A7-A035-E11E0A4D9A70} = {40F1D0F7-FF68-4760-9F20-34957F8583A0}
+		{D857F299-30E9-4532-9C48-AD41DAD73137} = {AC862FEA-2398-4AD1-B0AE-4B7F00EF7A3D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3A106C-5D58-489C-BA7D-45606D221A66}
+	EndGlobalSection
+EndGlobal

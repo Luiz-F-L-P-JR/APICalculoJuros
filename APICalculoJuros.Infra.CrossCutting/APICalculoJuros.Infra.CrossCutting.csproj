@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APICalculoJuros.Application\APICalculoJuros.Application.csproj" />
+    <ProjectReference Include="..\APICalculoJuros.Domain.Service\APICalculoJuros.Domain.Service.csproj" />
+    <ProjectReference Include="..\APICalculoJuros.Domain\APICalculoJuros.Domain.csproj" />
+    <ProjectReference Include="..\APICalculoJuros\APICalculoJuros.csproj" />
+  </ItemGroup>
+
+</Project>

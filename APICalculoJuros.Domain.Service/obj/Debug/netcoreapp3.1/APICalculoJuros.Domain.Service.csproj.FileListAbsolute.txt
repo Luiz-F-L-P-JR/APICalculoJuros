@@ -1,0 +1,12 @@
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.deps.json
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.csprojAssemblyReference.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.AssemblyInfoInputs.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.AssemblyInfo.cs
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.csproj.CoreCompileInputs.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.csproj.CopyComplete
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain.Service\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.pdb
