@@ -13,11 +13,11 @@ namespace APICalculoJuros.Domain.Service.ShowMeTheCode
 
         }
 
-        public async Task<Uri> GetLink()
+        public async Task<string> GetLink()
         {
-            Uri link = new Uri("https://github.com/Luiz-F-L-P-JR");
+            string link = "https://github.com/Luiz-F-L-P-JR";
 
-            return await Task.FromResult(link);
+            return link;
         }
     }
 }

@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\APICalculoJuros.Application\APICalculoJuros.Application.csproj" />
+    <ProjectReference Include="..\APICalculoJuros.Infra.CrossCutting\APICalculoJuros.Infra.CrossCutting.csproj" />
   </ItemGroup>
 
 

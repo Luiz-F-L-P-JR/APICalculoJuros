@@ -3,11 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using APICalculoJuros.Application.Calculo;
-using APICalculoJuros.Application.ShowMeTheCode;
-using APICalculoJuros.Domain.Calculo;
 using APICalculoJuros.Domain.Service.Calculo;
 using APICalculoJuros.Domain.Service.ShowMeTheCode;
-using APICalculoJuros.Domain.ShowMeTheCode;
+using APICalculoJuros.Infra.CrossCutting;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -33,30 +31,28 @@ namespace APICalculoJuros
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
 
-            services.AddTransient<ICalculoAppService, CalculoAppService>();
-            services.AddTransient<ICalculoService, CalculoService>();
-            services.AddTransient<IShowMeTheCodeAppService, ShowMeTheCodeAppService>();
-            services.AddTransient<IShowMeTheCodeService, ShowMeTheCodeService>();
+            services.AddInjecaoDependencia();
 
             services.AddSwaggerGen(options =>
-            {
-                options.SwaggerDoc("v1", 
-                    new OpenApiInfo
-                    {
-                        Title = "Calculo de Juros",
-                        Description = "Api responsável por realizar um equação consumindo outra api para utilizar suas propriedades de Juros.",
-                        Version = "v1",
-                        Contact = new OpenApiContact 
-                        { 
-                            Name = "Luiz Fernando Junoir.",
-                            Email = "luizfernandojr1998@gmail.com"
+                {
+                    options.SwaggerDoc("v1", 
+                        new OpenApiInfo
+                        {
+                            Title = "Calculo de Juros",
+                            Description = "Api responsável por realizar um equação consumindo outra api para utilizar suas propriedades de Juros.",
+                            Version = "v1",
+                            Contact = new OpenApiContact 
+                            { 
+                                Name = "Luiz Fernando Junoir.",
+                                Email = "luizfernandojr1998@gmail.com"
+                            }
                         }
-                    }
-                );
-            }
+                    );
+                }
             );
+
+            services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1634,29 +1634,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "APICalculoJuros.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/APICalculoJuros.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/APICalculoJuros.Domain.dll": {}
-        }
-      },
-      "APICalculoJuros.Domain.Service/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "APICalculoJuros.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/APICalculoJuros.Domain.Service.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/APICalculoJuros.Domain.Service.dll": {}
-        }
       }
     }
   },
@@ -5728,21 +5705,10 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "APICalculoJuros.Domain/1.0.0": {
-      "type": "project",
-      "path": "../APICalculoJuros.Domain/APICalculoJuros.Domain.csproj",
-      "msbuildProject": "../APICalculoJuros.Domain/APICalculoJuros.Domain.csproj"
-    },
-    "APICalculoJuros.Domain.Service/1.0.0": {
-      "type": "project",
-      "path": "../APICalculoJuros.Domain.Service/APICalculoJuros.Domain.Service.csproj",
-      "msbuildProject": "../APICalculoJuros.Domain.Service/APICalculoJuros.Domain.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "APICalculoJuros.Domain.Service >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
@@ -5750,27 +5716,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ljunior\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-CalculoJuros\\APICalculoJuros\\APICalculoJuros.Domain.Service.Test\\APICalculoJuros.Domain.Service.Test.csproj",
-      "projectName": "APICalculoJuros.Domain.Service.Test",
-      "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-CalculoJuros\\APICalculoJuros\\APICalculoJuros.Domain.Service.Test\\APICalculoJuros.Domain.Service.Test.csproj",
-      "packagesPath": "C:\\Users\\ljunior\\.nuget\\packages\\",
-      "outputPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-CalculoJuros\\APICalculoJuros\\APICalculoJuros.Domain.Service.Test\\obj\\",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\APICalculaJuros\\APICalculoJuros.Domain.Service.Test\\APICalculoJuros.Domain.Test.csproj",
+      "projectName": "APICalculoJuros.Domain.Test",
+      "projectPath": "C:\\Users\\User\\Documents\\APICalculaJuros\\APICalculoJuros.Domain.Service.Test\\APICalculoJuros.Domain.Test.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\APICalculaJuros\\APICalculoJuros.Domain.Service.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ljunior\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5781,11 +5744,8 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-CalculoJuros\\APICalculoJuros\\APICalculoJuros.Domain.Service\\APICalculoJuros.Domain.Service.csproj": {
-              "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-CalculoJuros\\APICalculoJuros\\APICalculoJuros.Domain.Service\\APICalculoJuros.Domain.Service.csproj"
-            }
-          }
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -5796,6 +5756,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
@@ -5829,7 +5790,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

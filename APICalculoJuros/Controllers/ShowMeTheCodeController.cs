@@ -1,4 +1,4 @@
-﻿using APICalculoJuros.Application.ShowMeTheCode;
+﻿using APICalculoJuros.Application.Interfaces.ShowMeTheCode;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -24,11 +24,11 @@ namespace APICalculoJuros.Controllers
         /// <returns> Retorna o link de um repositório online.</returns>
         [HttpGet]
         [Route("showmethecode")]
-        public async Task<Uri> GetLink()
+        public async Task<IActionResult> GetLink()
         {
             var retorno = await _showMeTheCodeAppService.GetLink();
 
-            return retorno;
+            return Ok(retorno);
         }
     }
 }

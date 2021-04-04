@@ -12,3 +12,15 @@ D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalcul
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.csproj.CopyComplete
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.dll
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.pdb
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\bin\Debug\netcoreapp3.1\APICalculoJuros.Application.deps.json
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\bin\Debug\netcoreapp3.1\APICalculoJuros.Application.dll
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\bin\Debug\netcoreapp3.1\APICalculoJuros.Application.pdb
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.dll
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.pdb
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.csprojAssemblyReference.cache
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.AssemblyInfoInputs.cache
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.AssemblyInfo.cs
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.csproj.CopyComplete
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.dll
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.pdb

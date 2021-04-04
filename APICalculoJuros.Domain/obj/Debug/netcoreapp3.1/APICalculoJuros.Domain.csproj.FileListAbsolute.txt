@@ -7,3 +7,12 @@ D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalcul
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.csproj.CoreCompileInputs.cache
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.dll
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Domain\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.pdb
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Domain\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.deps.json
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Domain\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.dll
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Domain\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.pdb
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Domain\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.csprojAssemblyReference.cache
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Domain\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Domain\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.AssemblyInfo.cs
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Domain\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Domain\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.dll
+C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Domain\obj\Debug\netcoreapp3.1\APICalculoJuros.Domain.pdb

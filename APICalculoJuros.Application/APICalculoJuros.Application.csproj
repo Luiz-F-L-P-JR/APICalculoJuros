@@ -1,11 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\APICalculoJuros.Domain.Service\APICalculoJuros.Domain.Service.csproj" />
+    <ProjectReference Include="..\APICalculoJuros.Domain\APICalculoJuros.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+b0KgnFLfgSUf5QNNFfnz1kxnw2hyOP1RKLW5lKtovfkxLS+jL2PPDANjPV43TcrfZsMSZ9bPJcPy1AoZClBg==",
+  "dgSpecHash": "Q90+CrRF04xrWJXIuqh+D/ULyVIZ2z3GvAxr6YArnTPp/U6XB7rXC4UCMqd6+7RqSB/GHd3BXyvXKHWeJnW+8Q==",
   "success": true,
-  "projectFilePath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-CalculoJuros\\APICalculoJuros\\APICalculoJuros.Domain.Service\\APICalculoJuros.Domain.Service.csproj",
+  "projectFilePath": "C:\\Users\\User\\Documents\\APICalculaJuros\\APICalculoJuros.Domain.Service\\APICalculoJuros.Domain.Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
