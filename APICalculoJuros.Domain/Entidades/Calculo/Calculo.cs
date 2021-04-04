@@ -39,17 +39,13 @@ namespace APICalculoJuros.Domain.Entidades.Calculo
         {
             var valorFinal = 1 + Juros;
 
-            //this.ValorFinal = (decimal)Math.Pow((double)this.ValorFinal, this.Tempo);
+            valorFinal = Convert.ToDecimal(Math.Pow(Convert.ToDouble(valorFinal), Tempo));
+                
+            valorFinal = ValorInicial * valorFinal;
+                
+            valorFinal = Math.Truncate(100 * valorFinal)/100;
 
-            //this.ValorFinal = this.ValorInicial * this.ValorFinal;
-
-            //this.ValorFinal = Math.Round(this.ValorFinal, 2);
-
-            //return this.ValorFinal;
-
-            ValorFinal = Math.Truncate(100 * (ValorInicial * Convert.ToDecimal(Math.Pow(Convert.ToDouble(1 + Juros), Tempo)))) / 100;
-
-
+            ValorFinal = valorFinal;
         }
     }
 }

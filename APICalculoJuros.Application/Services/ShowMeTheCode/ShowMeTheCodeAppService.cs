@@ -15,9 +15,9 @@ namespace APICalculoJuros.Application.Services.ShowMeTheCode
             _showMeTheCodeService = showMeTheCodeService;
         }
 
-        public async Task<string> GetLink()
+        public async Task<string> GetLinkAsync()
         {
-            var link = await _showMeTheCodeService.GetLink();
+            var link = await _showMeTheCodeService.GetLinkAsync();
 
             return link;
         }

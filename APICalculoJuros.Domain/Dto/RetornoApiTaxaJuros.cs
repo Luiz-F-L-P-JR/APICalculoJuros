@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace APICalculoJuros.Domain.Dto
+namespace APICalculoJuros.Domain.DTO
 {
     public class RetornoApiTaxaJuros
     {

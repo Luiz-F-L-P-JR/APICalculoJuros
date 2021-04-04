@@ -14,7 +14,7 @@ namespace APICalculoJuros.Domain.Service.ShowMeTheCode
 
         }
 
-        public async Task<string> GetLink()
+        public async Task<string> GetLinkAsync()
         {
             string link = "https://github.com/Luiz-F-L-P-JR";
 

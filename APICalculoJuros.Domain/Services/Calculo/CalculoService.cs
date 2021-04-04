@@ -1,4 +1,4 @@
-﻿using APICalculoJuros.Domain.Dto;
+﻿using APICalculoJuros.Domain.DTO;
 using APICalculoJuros.Domain.Entidades.Calculo;
 using APICalculoJuros.Domain.Interfaces.Calculo;
 using APICalculoJuros.Domain.Interfaces.infra.HttpClient;
@@ -22,9 +22,9 @@ namespace APICalculoJuros.Domain.Service.Calculo
             _httpclient = httpclient;
         }
 
-        public async Task<decimal> GetCalculoJuros(decimal valorInicial, int tempo)
+        public async Task<decimal> GetCalculoJurosAsync(decimal valorInicial, int tempo)
         {
-            var taxajuros = await ChamadaApiTaxaJuros().ConfigureAwait(false);
+            var taxajuros = await ChamadaApiTaxaJurosAsync().ConfigureAwait(false);
 
             var entidade = new Entidades.Calculo.Calculo(valorInicial, taxajuros, tempo);
 
@@ -33,14 +33,14 @@ namespace APICalculoJuros.Domain.Service.Calculo
             return entidade.ValorFinal;
         }
 
-        private async Task<decimal> ChamadaApiTaxaJuros()
+        private async Task<decimal> ChamadaApiTaxaJurosAsync()
         {
             var uri = _configuration.GetSection("ApiTaxaJuros").Value;
             var retornoHttpMessage = await _httpclient.GetAsync(uri).ConfigureAwait(false);
             if (retornoHttpMessage.IsSuccessStatusCode)
             {
-              var result =  JsonSerializer.Deserialize<RetornoApiTaxaJuros>(await retornoHttpMessage.Content.ReadAsStringAsync().ConfigureAwait(false));
-              return result.juros;
+                var result = JsonSerializer.Deserialize<decimal>(await retornoHttpMessage.Content.ReadAsStringAsync().ConfigureAwait(false));
+                return result;
             }
 
             return 0;

@@ -14,3 +14,19 @@ C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Infra.CrossCutting\obj\D
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.csproj.CopyComplete
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.dll
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.deps.json
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\bin\Debug\netcoreapp3.1\APICalculoJuros.Application.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\bin\Debug\netcoreapp3.1\APICalculoJuros.Application.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.csprojAssemblyReference.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.AssemblyInfoInputs.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.AssemblyInfo.cs
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.csproj.CopyComplete
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.pdb

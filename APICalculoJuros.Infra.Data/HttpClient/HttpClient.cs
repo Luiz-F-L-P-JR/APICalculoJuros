@@ -26,43 +26,22 @@ namespace APICalculoJuros.Infra.Data.HttpClient
             return response;
         }
 
-        public async Task<HttpResponseMessage> GetAsyncBasicAuthentication(string uri, string user, string password)
-        {
-            var httpRequestMessage = new HttpRequestMessage(HttpMethod.Get, uri);
-
-            string svcCredentials = Convert.ToBase64String(ASCIIEncoding.ASCII.GetBytes(user + ":" + password));
-            System.Net.Http.HttpClient httpClientBasic = new System.Net.Http.HttpClient();
-            httpClientBasic.DefaultRequestHeaders.Add("Authorization", "Basic " + svcCredentials);
-
-            var response = await httpClientBasic.SendAsync(httpRequestMessage);
-
-            return response;
-        }
-
         public async Task<HttpResponseMessage> PostAsync<T>(string uri, T item)
         {
             return await DoRequestAsync(HttpMethod.Post, uri, item);
         }
 
-        public async Task<HttpResponseMessage> PostAsyncBasicAuthentication<T>(string uri, T item, string user, string password)
-        {
-            var httpRequestMessage = new HttpRequestMessage(HttpMethod.Post, uri)
-            {
-                Content = new StringContent(JsonConvert.SerializeObject(item), Encoding.UTF8, "application/json")
-            };
-
-            string svcCredentials = Convert.ToBase64String(ASCIIEncoding.ASCII.GetBytes(user + ":" + password));
-            System.Net.Http.HttpClient httpClientBasic = new System.Net.Http.HttpClient();
-            httpClientBasic.DefaultRequestHeaders.Add("Authorization", "Basic " + svcCredentials);
-
-            var response = await httpClientBasic.SendAsync(httpRequestMessage);
-
-            return response;
-        }
-
         public async Task<HttpResponseMessage> PutAsync<T>(string uri, T item)
         {
             return await DoRequestAsync(HttpMethod.Put, uri, item);
+        }
+
+        public async Task<HttpResponseMessage> DeleteAsync(string uri)
+        {
+            var httpRequestMessage = new HttpRequestMessage(HttpMethod.Delete, uri);
+            var response = await this.httpClient.SendAsync(httpRequestMessage);
+
+            return response;
         }
 
         private async Task<HttpResponseMessage> DoRequestAsync<T>(HttpMethod httpMethod, string uri, T item)
@@ -72,32 +51,6 @@ namespace APICalculoJuros.Infra.Data.HttpClient
                 Content = new StringContent(JsonConvert.SerializeObject(item), Encoding.UTF8, "application/json")
             };
 
-            var response = await this.httpClient.SendAsync(httpRequestMessage);
-
-            return response;
-        }
-
-        private async Task<HttpResponseMessage> DoRequestAsync<T>(HttpMethod httpMethod, string uri, T item, string type)
-        {
-            var httpRequestMessage = new HttpRequestMessage(httpMethod, uri)
-            {
-                Content = new StringContent(JsonConvert.SerializeObject(item), null, type)
-            };
-
-            var response = await this.httpClient.SendAsync(httpRequestMessage);
-
-            return response;
-        }
-
-
-        public async Task<HttpResponseMessage> PatchAsync<T>(string uri, T item)
-        {
-            return await DoRequestAsync(new HttpMethod("PATCH"), uri, item);
-        }
-
-        public async Task<HttpResponseMessage> DeleteAsync(string uri)
-        {
-            var httpRequestMessage = new HttpRequestMessage(HttpMethod.Delete, uri);
             var response = await this.httpClient.SendAsync(httpRequestMessage);
 
             return response;

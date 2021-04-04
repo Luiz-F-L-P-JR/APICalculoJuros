@@ -7,6 +7,6 @@ namespace APICalculoJuros.Application.Interfaces.ShowMeTheCode
 {
     public interface IShowMeTheCodeAppService
     {
-        Task<string> GetLink();
+        Task<string> GetLinkAsync();
     }
 }

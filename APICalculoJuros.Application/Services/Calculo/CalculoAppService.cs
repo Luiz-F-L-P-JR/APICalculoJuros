@@ -16,9 +16,15 @@ namespace APICalculoJuros.Application.Services.Calculo
             _calculoService = calculoService;
         }
 
-        public async Task<decimal> GetCalculoJuros(decimal valorInicial, int tempo)
+        /// <summary>
+        /// Injeta o valor da operação.
+        /// </summary>
+        /// <param name="valorInicial"></param>
+        /// <param name="tempo"></param>
+        /// <returns>decimal</returns>
+        public async Task<decimal> GetCalculoJurosAsync(decimal valorInicial, int tempo)
         {
-            return await _calculoService.GetCalculoJuros(valorInicial, tempo);            
+            return await _calculoService.GetCalculoJurosAsync(valorInicial, tempo);            
         }
     }
 }

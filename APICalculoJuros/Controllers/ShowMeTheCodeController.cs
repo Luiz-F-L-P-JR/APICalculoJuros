@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace APICalculoJuros.Controllers
 {
     [ApiController]
-    [Route("api/v1/show-me-the-code")]
+    [Route("api/v1")]
     public class ShowMeTheCodeController : ControllerBase
     {
         private readonly IShowMeTheCodeAppService _showMeTheCodeAppService;
@@ -24,9 +24,12 @@ namespace APICalculoJuros.Controllers
         /// <returns> Retorna o link de um repositório online.</returns>
         [HttpGet]
         [Route("showmethecode")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(404)]
+        [ProducesResponseType(500)]
         public async Task<IActionResult> GetLink()
         {
-            var retorno = await _showMeTheCodeAppService.GetLink();
+            var retorno = await _showMeTheCodeAppService.GetLinkAsync();
 
             return Ok(retorno);
         }

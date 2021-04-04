@@ -2,8 +2,6 @@ D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalcul
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Application\bin\Debug\netcoreapp3.1\APICalculoJuros.Application.dll
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Application\bin\Debug\netcoreapp3.1\APICalculoJuros.Application.pdb
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Application\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.dll
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Application\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.dll
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Application\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.Service.pdb
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Application\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.pdb
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.csprojAssemblyReference.cache
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Application\obj\Debug\netcoreapp3.1\APICalculoJuros.Application.AssemblyInfoInputs.cache
