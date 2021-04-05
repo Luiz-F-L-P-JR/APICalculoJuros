@@ -1,5 +1,4 @@
-﻿using APICalculoJuros.Application.Calculo;
-using APICalculoJuros.Application.Interfaces.Calculo;
+﻿using APICalculoJuros.Application.Interfaces.Calculo;
 using APICalculoJuros.Application.Interfaces.ShowMeTheCode;
 using APICalculoJuros.Application.Services.Calculo;
 using APICalculoJuros.Application.Services.ShowMeTheCode;
@@ -10,7 +9,6 @@ using APICalculoJuros.Domain.Service.Calculo;
 using APICalculoJuros.Domain.Service.ShowMeTheCode;
 using APICalculoJuros.Infra.Data.HttpClient;
 using Microsoft.Extensions.DependencyInjection;
-using System;
 
 namespace APICalculoJuros.Infra.CrossCutting
 {
