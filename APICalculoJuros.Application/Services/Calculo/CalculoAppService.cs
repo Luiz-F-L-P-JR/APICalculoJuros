@@ -1,9 +1,5 @@
-﻿using APICalculoJuros.Application.Calculo.ViewModel;
-using APICalculoJuros.Application.Interfaces.Calculo;
+﻿using APICalculoJuros.Application.Interfaces.Calculo;
 using APICalculoJuros.Domain.Interfaces.Calculo;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace APICalculoJuros.Application.Services.Calculo

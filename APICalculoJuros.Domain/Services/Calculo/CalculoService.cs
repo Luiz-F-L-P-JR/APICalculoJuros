@@ -1,11 +1,7 @@
-﻿using APICalculoJuros.Domain.DTO;
-using APICalculoJuros.Domain.Entidades.Calculo;
-using APICalculoJuros.Domain.Interfaces.Calculo;
+﻿using APICalculoJuros.Domain.Interfaces.Calculo;
 using APICalculoJuros.Domain.Interfaces.infra.HttpClient;
 using Microsoft.Extensions.Configuration;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
