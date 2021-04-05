@@ -10,15 +10,15 @@ C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Infra.Data\obj\Debug\net
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.csproj.CopyComplete
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.dll
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.pdb
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.csprojAssemblyReference.cache
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.AssemblyInfoInputs.cache
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.AssemblyInfo.cs
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.csproj.CoreCompileInputs.cache
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.dll
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.pdb
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.deps.json
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.dll
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.pdb
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.dll
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.csprojAssemblyReference.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.AssemblyInfoInputs.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.AssemblyInfo.cs
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.csproj.CoreCompileInputs.cache
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.csproj.CopyComplete
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros.Infra.Data\obj\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.pdb

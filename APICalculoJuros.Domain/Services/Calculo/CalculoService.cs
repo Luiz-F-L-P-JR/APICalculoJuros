@@ -22,18 +22,16 @@ namespace APICalculoJuros.Domain.Service.Calculo
             _httpclient = httpclient;
         }
 
-        public async Task<decimal> GetCalculoJurosAsync(decimal valorInicial, int tempo)
+        public async Task<decimal> GetCalculoJurosAsync(decimal valorInicial, decimal juros, int tempo)
         {
-            var taxajuros = await ChamadaApiTaxaJurosAsync().ConfigureAwait(false);
-
-            var entidade = new Entidades.Calculo.Calculo(valorInicial, taxajuros, tempo);
+            var entidade = new Entidades.Calculo.Calculo(valorInicial, juros, tempo);
 
             entidade.GetCalculoJuros();
 
             return entidade.ValorFinal;
         }
 
-        private async Task<decimal> ChamadaApiTaxaJurosAsync()
+        public async Task<decimal> ChamadaApiTaxaJurosAsync()
         {
             var uri = _configuration.GetSection("ApiTaxaJuros").Value;
             var retornoHttpMessage = await _httpclient.GetAsync(uri).ConfigureAwait(false);
@@ -43,8 +41,7 @@ namespace APICalculoJuros.Domain.Service.Calculo
                 return result;
             }
 
-            return 0;
+            throw new ArgumentException("Erro: Requisição mal sucedida.");
         }
-
     }
 }

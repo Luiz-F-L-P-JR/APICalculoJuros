@@ -1,33 +1,3 @@
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.csprojAssemblyReference.cache
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.AssemblyInfoInputs.cache
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.AssemblyInfo.cs
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.RazorTargetAssemblyInfo.cache
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\staticwebassets\APICalculoJuros.StaticWebAssets.Manifest.cache
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\staticwebassets\APICalculoJuros.StaticWebAssets.xml
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Application.dll
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.dll
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.exe
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.deps.json
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.runtimeconfig.json
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.runtimeconfig.dev.json
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.dll
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.pdb
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Application.pdb
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.pdb
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.csproj.CoreCompileInputs.cache
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.MvcApplicationPartsAssemblyInfo.cs
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.MvcApplicationPartsAssemblyInfo.cache
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.csproj.CopyComplete
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.dll
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.pdb
-D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.genruntimeconfig.cache
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.exe
@@ -66,11 +36,41 @@ C:\Users\User\Documents\APICalculaJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.pdb
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\User\Documents\APICalculaJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.exe
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.deps.json
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.runtimeconfig.json
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.runtimeconfig.dev.json
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.pdb
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Application.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.dll
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.dll
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.dll
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.CrossCutting.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Application.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Domain.pdb
 D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.Infra.Data.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.csprojAssemblyReference.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.AssemblyInfoInputs.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.AssemblyInfo.cs
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.csproj.CoreCompileInputs.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.MvcApplicationPartsAssemblyInfo.cs
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.MvcApplicationPartsAssemblyInfo.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.RazorTargetAssemblyInfo.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.csproj.CopyComplete
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\staticwebassets\APICalculoJuros.StaticWebAssets.Manifest.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\staticwebassets\APICalculoJuros.StaticWebAssets.xml
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-CalculoJuros\APICalculoJuros\APICalculoJuros\obj\Debug\netcoreapp3.1\APICalculoJuros.genruntimeconfig.cache
