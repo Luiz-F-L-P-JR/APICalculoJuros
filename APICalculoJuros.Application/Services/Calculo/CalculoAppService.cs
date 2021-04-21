@@ -18,11 +18,11 @@ namespace APICalculoJuros.Application.Services.Calculo
         /// <param name="valorInicial"></param>
         /// <param name="tempo"></param>
         /// <returns>decimal</returns>
-        public async Task<decimal> GetCalculoJurosAsync(decimal valorInicial, int tempo)
+        public async Task<decimal> PegarCalculoJurosAsync(decimal valorInicial, int tempo)
         {
             var juros = await _calculoService.ChamadaApiTaxaJurosAsync().ConfigureAwait(false);
 
-            return await _calculoService.GetCalculoJurosAsync(valorInicial, juros, tempo);            
+            return await _calculoService.PegarCalculoJurosAsync(valorInicial, juros, tempo);            
         }
     }
 }

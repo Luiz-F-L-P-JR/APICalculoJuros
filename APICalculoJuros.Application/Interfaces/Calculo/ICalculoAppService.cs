@@ -4,6 +4,6 @@ namespace APICalculoJuros.Application.Interfaces.Calculo
 {
     public interface ICalculoAppService
     {
-        Task<decimal> GetCalculoJurosAsync(decimal valorInicial, int tempo);
+        Task<decimal> PegarCalculoJurosAsync(decimal valorInicial, int tempo);
     }
 }

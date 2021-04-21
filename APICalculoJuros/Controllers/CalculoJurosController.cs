@@ -28,7 +28,7 @@ namespace APICalculoJuros.Controllers
         [ProducesResponseType(500)]
         public async Task<IActionResult> GetAsync(decimal valorInicial, int tempo)
         {
-            var retorno = await _calculoAppService.GetCalculoJurosAsync(valorInicial, tempo).ConfigureAwait(false);
+            var retorno = await _calculoAppService.PegarCalculoJurosAsync(valorInicial, tempo).ConfigureAwait(false);
 
             return Ok(retorno);
         }

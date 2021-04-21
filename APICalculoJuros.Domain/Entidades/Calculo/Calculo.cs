@@ -35,7 +35,7 @@ namespace APICalculoJuros.Domain.Entidades.Calculo
             Juros = juros;
         }
 
-        public void GetCalculoJuros()
+        public void PegarCalculoJuros()
         {
             var valorFinal = 1 + Juros;
 

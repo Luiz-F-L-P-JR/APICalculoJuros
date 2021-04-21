@@ -7,7 +7,7 @@ namespace APICalculoJuros.Domain.Interfaces.Calculo
 {
     public interface ICalculoService
     {
-        Task<decimal> GetCalculoJurosAsync(decimal valorInicial, decimal juros, int tempo);
+        Task<decimal> PegarCalculoJurosAsync(decimal valorInicial, decimal juros, int tempo);
         Task<decimal> ChamadaApiTaxaJurosAsync();
     }
 }
