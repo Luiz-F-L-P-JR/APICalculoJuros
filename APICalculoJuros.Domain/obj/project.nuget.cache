@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XxF3j54kIyYCiL8lr1gH40QRLIQxlyjCZSBdks+kX2rh4UpB8RvaknL+zJgKzmz1Hqm8eAbSNAQX1rmRxt1mMA==",
+  "dgSpecHash": "eVM/xBg9WLg=",
   "success": true,
-  "projectFilePath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-CalculoJuros\\APICalculoJuros\\APICalculoJuros.Domain\\APICalculoJuros.Domain.csproj",
+  "projectFilePath": "D:\\Projetos\\Pessoais\\Projetos API\\Api-CalculoJuros\\APICalculoJuros\\APICalculoJuros.Domain\\APICalculoJuros.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512",
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -18,11 +18,11 @@ namespace APICalculoJuros.Domain.Service.Calculo
             _httpclient = httpclient;
         }
 
-        public async Task<decimal> GetCalculoJurosAsync(decimal valorInicial, decimal juros, int tempo)
+        public async Task<decimal> PegarCalculoJurosAsync(decimal valorInicial, decimal juros, int tempo)
         {
             var entidade = new Entidades.Calculo.Calculo(valorInicial, juros, tempo);
 
-            entidade.GetCalculoJuros();
+            entidade.PegarCalculoJuros();
 
             return entidade.ValorFinal;
         }

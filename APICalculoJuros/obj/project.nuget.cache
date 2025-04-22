@@ -1,20 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "z1KrNbQWG1O+cWTb9CZJWYNCHMIE6jY1AtWiEjK8GxLNAdT1A9Nbb0xuiRE1w34U/jpk1Wz5pGyq06cfImtdKQ==",
+  "dgSpecHash": "v5S9jbR5naQ=",
   "success": true,
-  "projectFilePath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-CalculoJuros\\APICalculoJuros\\APICalculoJuros\\APICalculoJuros.csproj",
+  "projectFilePath": "D:\\Projetos\\Pessoais\\Projetos API\\Api-CalculoJuros\\APICalculoJuros\\APICalculoJuros\\APICalculoJuros.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.13\\microsoft.extensions.dependencyinjection.abstractions.3.1.13.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.1\\swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
-    "C:\\Users\\ljunior\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.1\\swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512"
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.1\\swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.1\\swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512"
   ],
   "logs": []
 }

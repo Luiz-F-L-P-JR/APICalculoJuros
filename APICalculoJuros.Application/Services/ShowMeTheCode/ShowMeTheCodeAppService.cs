@@ -1,8 +1,5 @@
 ﻿using APICalculoJuros.Application.Interfaces.ShowMeTheCode;
 using APICalculoJuros.Domain.Interfaces.ShowMeTheCode;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace APICalculoJuros.Application.Services.ShowMeTheCode

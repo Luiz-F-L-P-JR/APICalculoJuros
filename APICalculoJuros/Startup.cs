@@ -30,7 +30,7 @@ namespace APICalculoJuros
                         new OpenApiInfo
                         {
                             Title = "Calculo de Juros",
-                            Description = "Api respons·vel por realizar um equaÁ„o consumindo outra api para utilizar suas propriedades de Juros.",
+                            Description = "Api respons√°vel por realizar uma equa√ß√£o consumindo outra api para utilizar suas propriedades de Juros.",
                             Version = "v1",
                             Contact = new OpenApiContact 
                             { 
